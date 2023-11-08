@@ -1,3 +1,3 @@
 # SIREN
  
-![alt text](https://github.com/RedRyan111/SIREN/tree/main/Imgs/Siren.png "SIREN Results")
+![alt text](https://github.com/RedRyan111/SIREN/Imgs/Siren.png "SIREN Results")
